@@ -1,5 +1,5 @@
 # ✨ Spasha Realtime Chat App ✨
 
-![Deployed Application](https://sparsha-new.onrender.com)
+🔗 **Live Demo:** [Sparsha Chat](https://sparsha-new.onrender.com) 
 
 
